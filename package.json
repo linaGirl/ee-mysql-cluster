@@ -1,0 +1,28 @@
+{
+      "name":           "ee-mysql-cluster"
+    , "description":    "mysql cluster implementation"
+    , "version":        "0.1.0"
+    , "homepage":       "https://github.com/eventEmitter/ee-mysql-cluster"
+    , "author":         "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)"
+    , "licence":        "MIT"
+    , "repository": {
+        "url":          "https://github.com/eventEmitter/ee-mysql-cluster"
+    }
+    , "engines": {
+        "node":         "*"
+    }
+    , "bugs": {
+        "url":          "https://github.com/eventEmitter/ee-mysql-cluster/issues"
+    }
+    , "dependencies": {
+          "ee-class":           "*"
+        , "ee-error":           "*"
+        , "ee-log":             "*"
+        , "ee-event-emitter":   "*"
+        , "ee-types":           "*"
+        , "ee-ttl-queue":       "*"
+        , "mysql":              "2.0.0-alpha8"
+    }
+    , "devDependencies": {}
+    , "optionalDependencies": {}
+}
