@@ -21,7 +21,7 @@
         , "ee-event-emitter":   "*"
         , "ee-types":           "*"
         , "ee-ttl-queue":       "*"
-        , "mysql":              "2.0.0-alpha8"
+        , "mysql":              "2.0.0-alpha9"
     }
     , "devDependencies": {}
     , "optionalDependencies": {}
