@@ -61,3 +61,6 @@ mysql cluster implementation.
 	} );
 
 
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-mysql-cluster.svg)](https://greenkeeper.io/)
